@@ -1,0 +1,25 @@
+1.	Installez les dépendences: (la commande pip est necessaires veuillez l'installer)
+	(l'utilisation de la commande est dans le cmd)
+	1.	Python: https://www.python.org/downloads/
+
+	2.	OpenCV (cv2) : OpenCV est une bibliothèque de vision par ordinateur utilisée pour la capture vidéo et la manipulation 	d'images. Vous 	devez installer OpenCV pour exécuter ce code. Vous pouvez l'installer à l'aide de pip :
+
+	pip install opencv-python
+
+	3.	PIL (Python Imaging Library) : PIL est utilisé pour la manipulation d'images et la conversion d'images en ASCII art. Vous 	devez installer PIL, également connu sous le nom de Pillow, à l'aide de pip :
+
+	pip install Pillow
+
+	4.	NumPy : NumPy est une bibliothèque Python utilisée pour effectuer des opérations numériques sur des tableaux. Il est 	utilisé dans ce code pour certaines opérations de traitement d'images. Vous pouvez l'installer à l'aide de pip :
+
+	pip install numpy
+
+	5.	Keyboard : La bibliothèque keyboard est utilisée pour détecter la pression de la touche "q" afin de quitter la boucle. 	Vous devez également installer cette bibliothèque à l'aide de pip :
+	
+
+	pip install keyboard
+
+	Assurez-vous d'installer ces bibliothèques avant d'exécuter le code, sinon vous obtiendrez des erreurs liées aux dépendances 	manquantes.
+
+2.	Démmarrez: entrez dans le cmd faite la commande cd [le chemin du script]
+	ensuite la commande python camera.py
